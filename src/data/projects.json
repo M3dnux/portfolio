@@ -1,5 +1,27 @@
 [
   {
+    "title": "QueenStyle",
+    "images": [
+      "projects/qs1.png",
+      "projects/qs2.png",
+      "projects/qs3.png",
+      "projects/qs4.png",
+      "projects/qs5.png",
+      "projects/qs6.png",
+      "projects/qs7.png",
+      "projects/qs8.png",
+      "projects/qs9.png",
+      "projects/qs10.png"
+    ],
+    "description": "QueenStyle is a comprehensive e-commerce platform specializing in women's clothing. The platform features a complete admin dashboard for managing orders, inventory, customer verification, and discount campaigns. Built with modern web technologies and hosted on an OVH VPS server, it provides a seamless shopping experience for customers and powerful management tools for administrators.",
+    "skills": ["Next.js", "Express.js", "Node.js", "OVH VPS"],
+    "duration": "1.5 months",
+    "difficulty": "Average",
+    "year": 2026,
+    "demo": "https://queenstyle-tn.com",
+    "source": ""
+  },
+  {
     "title": "MeilleurPrixTn",
     "images": [
       "projects/mptn1.png",
